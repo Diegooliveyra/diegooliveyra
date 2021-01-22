@@ -35,7 +35,6 @@
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=diegooliveyra&color=blueviolet">
-<br />
  <a href="https://www.linkedin.com/in/diego-de-oliveira-brito/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
