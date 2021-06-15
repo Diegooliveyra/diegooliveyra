@@ -13,7 +13,7 @@
 **About Me!**
 
 - 👨🏽‍💻 I’m currently working as a Instel Tecnologia.
-- 🌱 I’m currently exploring Javascript with great interest in React and React Native.
+- 🌱 I’m currently exploring React with great interest in React Native.
 - 🤔 My interests are web development, UI, UX and development of useful and legal things xD
 - 💼 I’m looking for a bachelor's degree in Systems Analysis and Development, but I'm already graduated in Marketing.
 - 💬 Ask me about anything, I love to answer!
