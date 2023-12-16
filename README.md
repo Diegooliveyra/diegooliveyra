@@ -12,8 +12,8 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a Maida Health.
-- 🌱 I’m currently exploring Next with great interest in React Native.
+- 👨🏽‍💻 I am currently working at Harpio.
+- 🌱 I’m currently exploring Next with great interest in Nest.
 - 🤔 My interests are web development, UI, UX and development of useful and legal things xD
 - 💼 I’m looking for a bachelor's degree in Systems Analysis and Development, but I'm already graduated in Marketing.
 - 💬 Ask me about anything, I love to answer!
